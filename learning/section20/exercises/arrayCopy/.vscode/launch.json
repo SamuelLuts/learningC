@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/saas/programacao/c/udemy/section22/learning/test1/test2",
-      "program": "/home/saas/programacao/c/udemy/section22/learning/test1/test2/build/Debug/outDebug",
+      "cwd": "/home/saas/programacao/c/learning/section20/exercises/arrayCopy",
+      "program": "/home/saas/programacao/c/learning/section20/exercises/arrayCopy/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
